@@ -1,4 +1,5 @@
-#NeuroTechX Tutorials &amp; Learning Material. 
+#Tutorials
+NeuroTechX Tutorials &amp; Learning Material.
 
 ## Join the Slack Group
 
